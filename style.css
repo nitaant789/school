@@ -1,0 +1,13 @@
+
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+#album {
+    height: 250px;
+    width: 500px;
+}
+
+#MarqueeStyle {
+   background-color: black; 
+}
